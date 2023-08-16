@@ -8,6 +8,8 @@ Interesting NLP resources
 4. CoVe
 5. GloVe
 
+# Features
+
 # Benchmark datasets
 1. **Stanford Question Answering Dataset (SQuAD)** for QA - Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. 2016. Squad: 100, 000+ questions for machine comprehension of text. In EMNLP.
 2. **Stanford Natural Language Inference (SNLI) corpus** - Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2015. A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). Association for Computational Linguistics.
@@ -27,14 +29,24 @@ Interesting NLP resources
 
 # Tasks
 1. Word Sense Disambiguation (WSD)
-2. POS tagging task
+2. Part-of-speech (POS) tagging
+3. Sentiment analysis
+4. Coreference Resolution
+5. Chunking
+6. Semantic Role Labeling (SRL)
+7. Named Entity Recognition (NER)
 
 # Books
 1. Speech and Language Processing, Dan Jurafsky and James H. Martin (https://web.stanford.edu/~jurafsky/slp3/)
 
+# Blog articles
+1. Common decoding schemes: https://medium.com/nlplanet/two-minutes-nlp-most-used-decoding-methods-for-language-models-9d44b2375612
+
 # Courses
 1. NLP coursera course
 2. UMass CS685: Advanced Natural Language Processing (Spring 2023) (https://www.youtube.com/watch?v=EJ8H3Ak_afA&list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj&index=1)
+3. Georgia Tech CS 7650: Natural Language Processing (Spring 2023); Alan Ritter (https://aritter.github.io/CS-7650-sp23/)
+4. Stanford; CS224N: Natural Language Processing with Deep Learning; Chris Manning (https://web.stanford.edu/class/cs224n/index.html#coursework)
 
 # Libraries
 1. NLTK (https://www.nltk.org/)
