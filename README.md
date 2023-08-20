@@ -31,10 +31,16 @@ Interesting NLP resources
 1. Word Sense Disambiguation (WSD)
 2. Part-of-speech (POS) tagging
 3. Sentiment analysis
-4. Coreference Resolution
+4. Co-reference Resolution
 5. Chunking
 6. Semantic Role Labeling (SRL)
 7. Named Entity Recognition (NER)
+8. Document classification
+9. Question-Answering (QA)
+10. Summarization
+
+# Applications
+1. Genomic sequences (DNA-based ?)
 
 # Books
 1. Speech and Language Processing, Dan Jurafsky and James H. Martin (https://web.stanford.edu/~jurafsky/slp3/)
@@ -47,6 +53,7 @@ Interesting NLP resources
 2. UMass CS685: Advanced Natural Language Processing (Spring 2023) (https://www.youtube.com/watch?v=EJ8H3Ak_afA&list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj&index=1)
 3. Georgia Tech CS 7650: Natural Language Processing (Spring 2023); Alan Ritter (https://aritter.github.io/CS-7650-sp23/)
 4. Stanford; CS224N: Natural Language Processing with Deep Learning; Chris Manning (https://web.stanford.edu/class/cs224n/index.html#coursework)
+5. CSE 5539: Cutting-Edge Topics in Natural Language Processing; Yu Su (https://ysu1989.github.io/courses/au20/cse5539/)
 
 # Libraries
 1. NLTK (https://www.nltk.org/)
