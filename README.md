@@ -16,10 +16,13 @@ Interesting NLP resources
 3. **OntoNotes benchmark** - Sameer Pradhan, Alessandro Moschitti, Nianwen Xue, Hwee Tou Ng, Anders Bj¨orkelund, Olga Uryupina, Yuchen Zhang, and Zhi Zhong. 2013. Towards robust linguistic analysis using ontonotes. In CoNLL.
 4. **CoNLL 2003 NER task** - Erik F. Tjong Kim Sang and Fien De Meulder. 2003. Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition. In CoNLL.
 5. **Stanford Sentiment Treebank (SST-5)** - Richard Socher, Alex Perelygin, Jean Y Wu, Jason Chuang, Christopher D Manning, Andrew Y Ng, and Christopher Potts. 2013. Recursive deep models for semantic compositionality over a sentiment treebank. In EMNLP.
+6. GLUE
+7. MTEB
 
 # Datasets
 1. SemCor 3.0
 2. Wall Street Journal portion of the Penn Treebank (PTB)
+3. Europarl
 
 # Models
 1. ESIM sequence model - Qian Chen, Xiao-Dan Zhu, Zhen-Hua Ling, Si Wei, Hui Jiang, and Diana Inkpen. 2017. Enhanced lstm for natural language inference. In ACL.
@@ -38,8 +41,10 @@ Interesting NLP resources
 8. Document classification
 9. Question-Answering (QA)
 10. Summarization
+11. Entailment
+12. 
 
-# Applications
+# Applications ?
 1. Genomic sequences (DNA-based ?)
 
 # Books
@@ -47,6 +52,7 @@ Interesting NLP resources
 
 # Blog articles
 1. Common decoding schemes: https://medium.com/nlplanet/two-minutes-nlp-most-used-decoding-methods-for-language-models-9d44b2375612
+2. 
 
 # Courses
 1. NLP coursera course
@@ -57,3 +63,5 @@ Interesting NLP resources
 
 # Libraries
 1. NLTK (https://www.nltk.org/)
+2. OpenNMT (https://opennmt.net/)
+3. Stanford CoreNLP
