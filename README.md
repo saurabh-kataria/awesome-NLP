@@ -7,6 +7,7 @@ Interesting NLP resources
 3. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) (Mikolov et al., ICLR 2013 ?) - word2vec
 4. CoVe
 5. GloVe
+6. FastText
 
 # Features
 
@@ -18,6 +19,8 @@ Interesting NLP resources
 5. **Stanford Sentiment Treebank (SST-5)** - Richard Socher, Alex Perelygin, Jean Y Wu, Jason Chuang, Christopher D Manning, Andrew Y Ng, and Christopher Potts. 2013. Recursive deep models for semantic compositionality over a sentiment treebank. In EMNLP.
 6. GLUE
 7. MTEB
+8. BIG BENCH
+9. 
 
 # Datasets
 1. SemCor 3.0
@@ -32,7 +35,7 @@ Interesting NLP resources
 
 # Tasks
 1. Word Sense Disambiguation (WSD)
-2. Part-of-speech (POS) tagging
+2. Part-of-speech (POS) tagging, syntactic parse tree (Constituency parsing?), dependency grammar (parsing)
 3. Sentiment analysis
 4. Co-reference Resolution
 5. Chunking
@@ -40,9 +43,20 @@ Interesting NLP resources
 7. Named Entity Recognition (NER)
 8. Document classification
 9. Question-Answering (QA)
-10. Summarization
+10. Text summarization
 11. Entailment
-12. 
+12. Spelling correction
+13. Auto-correction
+14. Information retrieval
+15. Machine Translation
+16. 
+
+# Evaluation
+1. BLUE (Bilingual Evaluation Understudy) score
+2. ROUGE metric
+3. BERT score ?
+4. CLIP score ?
+5. 
 
 # Applications ?
 1. Genomic sequences (DNA-based ?)
@@ -64,4 +78,4 @@ Interesting NLP resources
 # Libraries
 1. NLTK (https://www.nltk.org/)
 2. OpenNMT (https://opennmt.net/)
-3. Stanford CoreNLP
+3. Stanford CoreNLP (https://stanfordnlp.github.io/CoreNLP/)
