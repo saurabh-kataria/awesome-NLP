@@ -1,6 +1,18 @@
 # awesome-NLP
 Interesting NLP resources
 
+# Obtain data (Data mining)
+1. Crawling/mining ?
+2. Wrapper induction
+
+# Pre-processing
+1. Normalization ?
+2. Tokenization
+3. Document alignment ?
+
+# Algorithms
+1. 
+
 # Representations
 1. [Deep Contextualized Word Representations](https://aclanthology.org/N18-1202) (Peters et al., NAACL 2018) - ELMO
 2. [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) (Devlin et al., NAACL-HLT 2019) - BERT
@@ -49,14 +61,18 @@ Interesting NLP resources
 13. Auto-correction
 14. Information retrieval
 15. Machine Translation
-16. 
+16. Information extraction ?
+17. Anaphora resolution ?
 
 # Evaluation
 1. BLUE (Bilingual Evaluation Understudy) score
 2. ROUGE metric
-3. BERT score ?
-4. CLIP score ?
-5. 
+3. Perplexity
+4. Transformer-based ? like BERTScore
+5. Simple ones like F1 score, Accuracy, etc.
+6. METEOR
+7. Ranking-based like SQuAD
+8. Correlation-based like MCC, Pearson
 
 # Applications ?
 1. Genomic sequences (DNA-based ?)
@@ -79,3 +95,8 @@ Interesting NLP resources
 1. NLTK (https://www.nltk.org/)
 2. OpenNMT (https://opennmt.net/)
 3. Stanford CoreNLP (https://stanfordnlp.github.io/CoreNLP/)
+
+# Misc
+STRAND by Resnik; 
+
+# References
