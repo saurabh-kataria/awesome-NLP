@@ -11,7 +11,7 @@ Interesting NLP resources
 3. Document alignment ?
 
 # Algorithms
-1. 
+1. Gale–Church alignment algorithm (https://web.archive.org/web/20061026051708/http://acl.ldc.upenn.edu/J/J93/J93-1004.pdf , https://en.wikipedia.org/w/index.php?title=Gale%E2%80%93Church_alignment_algorithm&oldformat=true)
 
 # Representations
 1. [Deep Contextualized Word Representations](https://aclanthology.org/N18-1202) (Peters et al., NAACL 2018) - ELMO
@@ -95,8 +95,10 @@ Interesting NLP resources
 1. NLTK (https://www.nltk.org/)
 2. OpenNMT (https://opennmt.net/)
 3. Stanford CoreNLP (https://stanfordnlp.github.io/CoreNLP/)
+4. torchtext
 
 # Misc
-STRAND by Resnik; 
+1. STRAND by Resnik
+2. Tatoeba Project (https://tatoeba.org/en ; http://www.manythings.org/anki/)
 
 # References
