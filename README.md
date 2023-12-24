@@ -19,7 +19,7 @@ Interesting NLP resources
 3. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) (Mikolov et al., ICLR 2013 ?) - word2vec
 4. CoVe
 5. GloVe
-6. FastText
+6. FastText?
 
 # Features
 
@@ -96,6 +96,8 @@ Interesting NLP resources
 2. OpenNMT (https://opennmt.net/)
 3. Stanford CoreNLP (https://stanfordnlp.github.io/CoreNLP/)
 4. torchtext
+5. gensim (https://pypi.org/project/gensim/)
+6. https://github.com/OpenNLPLab
 
 # Misc
 1. STRAND by Resnik
