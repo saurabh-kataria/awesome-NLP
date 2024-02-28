@@ -38,6 +38,7 @@ Interesting NLP resources
 1. SemCor 3.0
 2. Wall Street Journal portion of the Penn Treebank (PTB)
 3. Europarl
+4. Pile - Gao, Leo, et al. "**The pile: An 800gb dataset of diverse text for language modeling**." arXiv preprint arXiv:2101.00027 (2020).
 
 # Models
 1. ESIM sequence model - Qian Chen, Xiao-Dan Zhu, Zhen-Hua Ling, Si Wei, Hui Jiang, and Diana Inkpen. 2017. Enhanced lstm for natural language inference. In ACL.
